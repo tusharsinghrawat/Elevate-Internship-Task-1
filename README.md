@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Project Overview
-This is my **Task 1** submission for the **Elevate Web Development Internship**.  
+This is my **Task 1** submission for the **Elevate Labs Web Development Internship**.  
 The goal of this task was to **create a simple, clean, and responsive landing page** using only **HTML5** and **CSS3**.  
 
 It includes:
