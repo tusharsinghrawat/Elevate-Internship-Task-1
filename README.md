@@ -1,4 +1,4 @@
-# 🌐 Elevate Internship - Task 1  
+# 🌐 Elevate Labs Internship - Task 1  
 ### Responsive Landing Page using HTML & CSS  
 
 ---
